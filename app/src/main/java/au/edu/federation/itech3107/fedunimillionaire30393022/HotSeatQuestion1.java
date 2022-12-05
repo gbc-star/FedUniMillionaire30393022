@@ -184,7 +184,7 @@ public class HotSeatQuestion1 extends AppCompatActivity {
                         JSONObject Money = new JSONObject(stringBuilder_money.toString());
                         JSONArray json_array_money = Money.getJSONArray("money");
                         JSONObject json_object_money = json_array_money.getJSONObject(0);
-                        tv2.setText("Correct! You will win: $ " + json_object_money.getString("win_money") + " !");
+                        tv2.setText("Correct! You will win: $ " + json_object_money.getString("win_money") + " ! ");
                         tv3.setText("Now you safe money is $ " + json_object_money.getString("safe_money") + " !");
                     } catch (JSONException e) {
                         e.printStackTrace();
