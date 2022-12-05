@@ -1,0 +1,70 @@
+{
+  "money": [
+    {
+      "No": "1",
+      "difficulty": "Easy",
+      "win_money": "1,000",
+      "safe_money": "1,000"
+    },
+    {
+      "No": "2",
+      "difficulty": "Easy",
+      "win_money": "2,000",
+      "safe_money": "1,000"
+    },
+    {
+      "No": "3",
+      "difficulty": "Easy",
+      "win_money": "4,000",
+      "safe_money": "1,000"
+    },
+    {
+      "No": "4",
+      "difficulty": "Easy",
+      "win_money": "8,000",
+      "safe_money": "1,000"
+    },
+    {
+      "No": "5",
+      "difficulty": "Easy",
+      "win_money": "16,000",
+      "safe_money": "1,000"
+    },
+    {
+      "No": "6",
+      "difficulty": "Medium",
+      "win_money": "32,000",
+      "safe_money": "32,000"
+    },
+    {
+      "No": "7",
+      "difficulty": "Medium",
+      "win_money": "64,000",
+      "safe_money": "32,000"
+    },
+    {
+      "No": "8",
+      "difficulty": "Medium",
+      "win_money": "125,000",
+      "safe_money": "32,000"
+    },
+    {
+      "No": "9",
+      "difficulty": "Medium",
+      "win_money": "250,000",
+      "safe_money": "32,000"
+    },
+    {
+      "No": "10",
+      "difficulty": "Hard",
+      "win_money": "500,000",
+      "safe_money": "32,000"
+    },
+    {
+      "No": "11",
+      "difficulty": "Hard",
+      "win_money": "1,000,000",
+      "safe_money": "1,000,000"
+    }
+  ]
+}

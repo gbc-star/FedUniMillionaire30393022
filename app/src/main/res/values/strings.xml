@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FedUni Millionaire 30393022</string>
+
+    <string name="title">Millionaire</string>
+    <string name="start_btn">Hot Seat Mode</string>
+    <string name="normal">Normal Mode</string>
+    <string name="BN">next</string>
+    <string name="BH">Home</string>
+    <string name="win">You win!</string>
+    <string name="win_money">You win $1,000,000</string>
+    <string name="retry">Retry</string>
+    <string name="submit">submit</string>
+    <string name="please_enter_your_name">Please enter your name.</string>
+
+
+</resources>

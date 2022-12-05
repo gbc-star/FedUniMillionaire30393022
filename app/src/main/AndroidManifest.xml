@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="au.edu.federation.itech3107.fedunimillionaire30393022">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FedUniMillionaire30393022"
+        tools:targetApi="31">
+        <activity
+            android:name=".DeleteAddQuestion"
+            android:exported="false" />
+        <activity
+            android:name=".NormalQuestion11"
+            android:exported="false" />
+        <activity
+            android:name=".NormalQuestion10"
+            android:exported="false" />
+        <activity
+            android:name=".NormalQuestion9"
+            android:exported="false" />
+        <activity
+            android:name=".NormalQuestion8"
+            android:exported="false" />
+        <activity
+            android:name=".NormalQuestion7"
+            android:exported="false" />
+        <activity
+            android:name=".NormalQuestion6"
+            android:exported="false" />
+        <activity
+            android:name=".NormalQuestion5"
+            android:exported="false" />
+        <activity
+            android:name=".NormalQuestion4"
+            android:exported="false" />
+        <activity
+            android:name=".NormalQuestion3"
+            android:exported="false" />
+        <activity
+            android:name=".NormalQuestion2"
+            android:exported="false" />
+        <activity
+            android:name=".NormalQuestion1"
+            android:exported="false" />
+        <activity
+            android:name=".RankList"
+            android:exported="false" />
+        <activity
+            android:name=".HotSeatQuestion11"
+            android:exported="false" />
+        <activity
+            android:name=".HotSeatQuestion10"
+            android:exported="false" />
+        <activity
+            android:name=".HotSeatQuestion9"
+            android:exported="false" />
+        <activity
+            android:name=".HotSeatQuestion8"
+            android:exported="false" />
+        <activity
+            android:name=".HotSeatQuestion7"
+            android:exported="false" />
+        <activity
+            android:name=".HotSeatQuestion6"
+            android:exported="false" />
+        <activity
+            android:name=".HotSeatQuestion5"
+            android:exported="false" />
+        <activity
+            android:name=".HotSeatQuestion4"
+            android:exported="false" />
+        <activity
+            android:name=".HotSeatQuestion3"
+            android:exported="false" />
+        <activity
+            android:name=".HotSeatQuestion2"
+            android:exported="false" />
+        <activity
+            android:name=".FinishPage"
+            android:exported="false" />
+        <activity
+            android:name=".HotSeatQuestion1"
+            android:exported="false" />
+        <activity
+            android:name=".WelcomePage"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
